@@ -6,10 +6,9 @@
 * [2. Planificación del proyecto y diseño](#2-Planificación-del-proyecto-y-diseño)
 * [3. Historia de usuario](#3-Historia-de-usuario)
 
-
 ***
 
-## 1. PawLovers
+## 1. PawLovers <img src="https://github.com/LiRizo/SCL013-social-network/blob/master/src/images/iconos/Paw.png">
 
 PawLovers es mucho más que una red social para mascotas. Es todo un universo en torno al mundo de los perros, gatos, pájaros, hamsters, etc. Concursar por la mejor fotografia ya que ¡Ellos son lo primero! En esta comunidad.
 
@@ -40,7 +39,7 @@ Con este prototipo se presento a distintas personas para recibir feeback e imple
 
 <img src="https://github.com/LiRizo/SCL013-social-network/blob/master/src/images/MaterialReadme/prototipoDeAltaFidelidad.JPG" width= 747px height= 745px>
 
-### Busqueda de diseño
+### Busqueda de diseño <i class="fas fa-palette"></i>
 
 - Paleta de colores
 En la búsqueda de la paleta de colores, se quería demostrar jovialidad y una sensación de naturaleza, para eso buscamos colores que a simple vista te trasladan al mundo animal.
@@ -67,23 +66,17 @@ Y se eligió una tipografía que fuera divertida, un poco desordenada, Puedes ap
 
 ### d.Experiencia de usuario UX.
 
-
+Se obtuvo una grata llegada, se obtuvo varios comentarios que se rescataron para mejorar la interacion con los usuarios.
 
 ## 3. Historia de usuario
 
 ### Historia de usuario 1: Ingreso al sitio web (mobile)
 
-Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el formulario de inicio de sesión/registro para poder realizar comentarios, publicaciones, dar likes y editar mis publicaciones y la información de mi cuenta.
+Como invitado, puedo hacer clic en “Ingresar” para ver el modal con el formulario de inicio de sesión/registro para poder realizar comentarios, publicaciones, dar likes y editar mis publicaciones y la información de mi cuenta.
 
-<<<<<<< HEAD
 * [] Investigar, las especificaciones de cada componente elemental para poder ejecutar las necesidades del usuario.
-* [] Tener un prototipo para recibir feeback de los potenciales usuarios.
+* [] Tener un prototipo para recibir feedback de los potenciales usuarios.
 * [] definir paletas y diseño del mismo.
-=======
-* [ ] Investigar, las especificaciones de cada componente elemental para poder ejecutar las necesidades del usuario.
-* [ ] Tener un prototipo para recibir feeback de los potenciales usuarios.
-* [ ] definir paletas y diseño del mismo.
->>>>>>> 74620ed99cde87d41595977aba185e786f7a7168
 
 ### Historia 2 Inicio de sesión y registro a través de modal (mobile)
 
@@ -93,27 +86,18 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Criterios de aceptación: modal con dos formularios (inicio de sesión y registro), cada uno en una pestaña. Se activa al hacer clic en “Ingresar”. Una vez logueado, “Ingresa” se transforma en el ícono de perfil de usuario y se activan las opciones de publicar, comentar, likes y la patita para editar
 - Definición de Terminado:
 
-
-<<<<<<< HEAD
-* [] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js)
-* [] Crear enlace para abrir modal desde el header de la página de inicio 
+* [] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js).
+* [] Crear enlace para abrir modal desde el header de la página de inicio.
 * [] Crear funcionalidad de autenticación de usuario y asociar inicio de sesión y registro con las pestañas correspondientes del modal. 
-* [] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor) 
-* [] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.) 
-=======
-* [ ] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js)
-* [ ] Crear enlace para abrir modal desde el header de la página de inicio 
-* [ ] Crear funcionalidad de autenticación de usuario y asociar inicio de sesión y registro con las pestañas correspondientes del modal. 
-* [ ] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor) 
-* [ ] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.) 
->>>>>>> 74620ed99cde87d41595977aba185e786f7a7168
+* [] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor).
+* [] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.).
 
 ### Historia 3 Acceso a categorías de publicaciones (mobile)
 
 - Usuario: quiero tener la vida más fácil
 - Necesita: tener un menú de categorías.
 - Para: moverse libremente dentro de la app web.
-- Criterios de aceptación: Agregar menú superior con información sobre las páginas para navegar. (Móvil, web a un lado derecho)
+- Criterios de aceptación: Agregar menú superior con información sobre las páginas para navegar. (Móvil, web a un lado derecho).
 - Definición de Terminado:
 
 
@@ -129,52 +113,37 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Necesita: participar en concursos de fotos a mascotas
 - Para: ver diferentes mascotas y entretenerme votando por los más kawaii
 - Criterios de aceptación: agregar un menú carrusel para poder ver las fotos que se han postulado y poder votar por la preferida. 
-- Definición de Terminado: 
+- Definición de Terminado: poder ver todos los concursantes y votar por el favorito
 
+* [] Recopilar las imagenes y enumerarlas.
+* [] Investigar de los diferentes tipos de carrusel.
+* [] Implementarlos en su campo asignado.
+* [] Definir diseño y medidas.
 
-* [] 
-* [] 
-* [] 
-* [] 
-
-
-### Historia 5: Plantilla del Home
-
-- Usuario: que entra a ver los nuevos posts
-- Necesita: tener una visión de las últimas actualizaciones.
-- Para: 
-- Criterios de aceptación: 
-- Definición de Terminado: tener una plantilla de home, que contenga me gusta, comentarios, repostearlo.
-- Crear plantilla de home con botones de me gusta, comentarios y compartir (sin formulario)
-- Darle estilo con CSS según la maqueta de Figma
-
-
-* [] 
-* [] 
-* [] 
-
-### Historia 6: Plantilla de Categorías
+### Historia 5: Plantilla de Categorías
 
 - Usuario: que entra a buscar algo en especifico
-- Necesita: 
+- Necesita: no estar logeado y poder conseguir la informacion que busca
 - Para: que al buscar sobre 1 categoría en especifica me salga todo relacionado con ella
-- Criterios de aceptación: 
-- Definición de Terminado: tener una plantilla de categorías. que contenga una pestaña para hacer tu post referente a la categoría, y poder ver y comentar, repostear el de otros
+- Criterios de aceptación: que funcione para todas las categorias.
+- Definición de Terminado: tener una plantilla de categorías. que contenga una pestaña para hacer un post referente a la categoría, y poder ver y comentar, repostear el de otros.
 
-* [] 
-* [] 
+* [] Crear la plantilla del new post. 
+* [] Crear planilla de los posts creados.
+* [] Crear botones de like, comentario y boton (paw) con edit y borrar.
+* [] Asignar un nombre para luego vincularlo con la categoria correspondiente.
 
-### Historia 7: Plantilla de Información (más sobre PL)
+### Historia 6: Plantilla de Información (más sobre PL)
 
-- Usuario: que entra a buscar de qué trata la red social 
+- Usuario: que entra a buscar de qué trata la red social.
 - Necesita: que esté todo en un solo lugar
-- Para: 
-- Criterios de aceptación: 
+- Para: que el usuario interesado que no este tan decido a registrarse, resuelvan sus dudas.
+- Criterios de aceptación: que sea una informacin util y acotada.
 - Definición de Terminado: tener una plantilla de información. donde puedas saber más sobre los creadores y el fin de la red social.
 
-* [] 
-* [] 
-* [] 
+* [] Vincular con Href a la categoria correspondiente.
+* [] Trabajo en el css.
+* [] Testear con posibles usuarios para comprobar una información efectiva.
 
 
 
