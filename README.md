@@ -24,7 +24,7 @@ Además podrás encontrar empresas y servicios profesionales del sector de los a
 
 ### Trello
 
-<img src="https://github.com/LiRizo/SCL013-social-network/blob/master/src/images/MaterialReadme/TrelloPL.JPG" width= 420px height= 490px>
+<img src="https://github.com/LiRizo/SCL013-social-network/blob/master/src/images/MaterialReadme/TrelloPL.JPG">
 
 [Link Trello](https://trello.com/b/LvAEjZ51/social-network)
 
@@ -75,9 +75,9 @@ Y se eligió una tipografía que fuera divertida, un poco desordenada, Puedes ap
 
 Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el formulario de inicio de sesión/registro para poder realizar comentarios, publicaciones, dar likes y editar mis publicaciones y la información de mi cuenta.
 
-* [+ ] Investigar, las especificaciones de cada componente elemental para poder ejecutar las necesidades del usuario.
-* [* ] Tener un prototipo para recibir feeback de los potenciales usuarios.
-* [/ ] definir paletas y diseño del mismo.
+* [] Investigar, las especificaciones de cada componente elemental para poder ejecutar las necesidades del usuario.
+* [] Tener un prototipo para recibir feeback de los potenciales usuarios.
+* [] definir paletas y diseño del mismo.
 
 ### Historia 2 Inicio de sesión y registro a través de modal (mobile)
 
@@ -88,11 +88,11 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Definición de Terminado:
 
 
-* [! ] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js)
-* [ ] Crear enlace para abrir modal desde el header de la página de inicio 
-* [ ] Crear funcionalidad de autenticación de usuario y asociar inicio de sesión y registro con las pestañas correspondientes del modal. 
-* [ ] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor) 
-* [ ] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.) 
+* [] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js)
+* [] Crear enlace para abrir modal desde el header de la página de inicio 
+* [] Crear funcionalidad de autenticación de usuario y asociar inicio de sesión y registro con las pestañas correspondientes del modal. 
+* [] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor) 
+* [] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.) 
 
 ### Historia 3 Acceso a categorías de publicaciones (mobile)
 
@@ -103,19 +103,25 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Definición de Terminado:
 
 
-* [ ] Agregar las categorías al header (solo para el móvil)
-* [ ] Asignar color
-* [ ] Ordenar los iconos en el header
-* [ ] Hacer la animación del search
-* [ ] Hacer las redirecciones
+* [] Agregar las categorías al header (solo para el móvil)
+* [] Asignar color
+* [] Ordenar los iconos en el header
+* [] Hacer la animación del search
+* [] Hacer las redirecciones
 
 ### Historia 4 Carrusel concurso fotográfico
 
+- Usuario: interactuar con diferentes usuarios
+- Necesita: participar en concursos de fotos a mascotas
+- Para: ver diferentes mascotas y entretenerme votando por los más kawaii
+- Criterios de aceptación: agregar un menú carrusel para poder ver las fotos que se han postulado y poder votar por la preferida. 
+- Definición de Terminado: 
 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
+
+* [] 
+* [] 
+* [] 
+* [] 
 
 
 ### Historia 5: Plantilla del Home
@@ -129,9 +135,9 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Darle estilo con CSS según la maqueta de Figma
 
 
-* [ ] 
-* [ ] 
-* [ ] 
+* [] 
+* [] 
+* [] 
 
 ### Historia 6: Plantilla de Categorías
 
@@ -141,8 +147,8 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Criterios de aceptación: 
 - Definición de Terminado: tener una plantilla de categorías. que contenga una pestaña para hacer tu post referente a la categoría, y poder ver y comentar, repostear el de otros
 
-* [ ] 
-* [ ] 
+* [] 
+* [] 
 
 ### Historia 7: Plantilla de Información (más sobre PL)
 
@@ -152,9 +158,9 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Criterios de aceptación: 
 - Definición de Terminado: tener una plantilla de información. donde puedas saber más sobre los creadores y el fin de la red social.
 
-* [ ] 
-* [ ] 
-* [ ] 
+* [] 
+* [] 
+* [] 
 
 
 
