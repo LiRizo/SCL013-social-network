@@ -75,9 +75,15 @@ Y se eligió una tipografía que fuera divertida, un poco desordenada, Puedes ap
 
 Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el formulario de inicio de sesión/registro para poder realizar comentarios, publicaciones, dar likes y editar mis publicaciones y la información de mi cuenta.
 
+<<<<<<< HEAD
 * [] Investigar, las especificaciones de cada componente elemental para poder ejecutar las necesidades del usuario.
 * [] Tener un prototipo para recibir feeback de los potenciales usuarios.
 * [] definir paletas y diseño del mismo.
+=======
+* [ ] Investigar, las especificaciones de cada componente elemental para poder ejecutar las necesidades del usuario.
+* [ ] Tener un prototipo para recibir feeback de los potenciales usuarios.
+* [ ] definir paletas y diseño del mismo.
+>>>>>>> 74620ed99cde87d41595977aba185e786f7a7168
 
 ### Historia 2 Inicio de sesión y registro a través de modal (mobile)
 
@@ -88,11 +94,19 @@ Yo, como invitado, puedo hacer clic en “Ingresar” para ver el modal con el f
 - Definición de Terminado:
 
 
+<<<<<<< HEAD
 * [] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js)
 * [] Crear enlace para abrir modal desde el header de la página de inicio 
 * [] Crear funcionalidad de autenticación de usuario y asociar inicio de sesión y registro con las pestañas correspondientes del modal. 
 * [] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor) 
 * [] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.) 
+=======
+* [ ] Crear modal básico con pestaña de formulario de inicio de sesión y registro (html, css y js)
+* [ ] Crear enlace para abrir modal desde el header de la página de inicio 
+* [ ] Crear funcionalidad de autenticación de usuario y asociar inicio de sesión y registro con las pestañas correspondientes del modal. 
+* [ ] Crear opción de cierre de sesión provisoria (solo para probar la funcionalidad, después la cambiamos para ver cómo se ve mejor) 
+* [ ] Dar el estilo definitivo al modal (colores de pestañas, botones, hovers, animaciones, etc.) 
+>>>>>>> 74620ed99cde87d41595977aba185e786f7a7168
 
 ### Historia 3 Acceso a categorías de publicaciones (mobile)
 
